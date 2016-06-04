@@ -34,7 +34,7 @@ Batch:
 
  1. Vor allem aus persönlichem Interesse habe ich mich für Apache Flink entschieden. Was ich aus einigen Artikel rauslesen konnte, ist es zwar noch nicht so weit verbreitet wie Spark, wird aber etwas gehyped, weil es neben Batch-Verarbeitung auch einige neue Features wie Echtzeit Stream Verarbeitung bietet. Deshalb wollte ich mich mit einer Technologie befassen, die beides unterstützt und selber sehen, ob es dem Hype gerecht wird. 
  2. Screenshots:
- ![Flink - Command Line](BLD-Hausuebung/screenshots/DataEngineering_Flink_CommandLine.png "Flink - Command Line")
+ ![Flink - Command Line](screenshots/DataEngineering_Flink_CommandLine.png "Flink - Command Line")
  ![Flink - Example Run](https://api.bildkopie.com/photos/108699-129pa19rbf3053.jpg "Flink - Example Run")
  ![Flink - Web Frontend](https://api.bildkopie.com/photos/108699-129pa19rbf3053.jpg "Flink - Web Frontend")
  3. Als Entwicklungsumgebung für Java wird die IDE IntelliJ eingesetzten und Maven als Build Tool verwenden. 
