@@ -19,8 +19,8 @@ Strukturiert (schematisch):
 *Nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die gestreamt verarbeitet werden, nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die über Batchverarbeitung verarbeitet werden.*
 
 Stream: 
- - Information zu Besucher der Web-Applikation und Nutzeraktivität (Web Metrics) --> diese Daten werden sofort beim Besuch vom Client an Services der Web-Applikation & Google Analytics weitergeleitet und dort verarbeitet.
- - Sofort bei jedem Eingang einer neuen Bestellung werden die Umsatzstatisiken für den Fotografen upgedatet.
+ - Information zu Besuchern der Web-Applikation und Nutzeraktivität (Web Metrics) --> diese Daten werden sofort vom Client an Services der Web-Applikation & Google Analytics weitergeleitet und dort verarbeitet.
+ - Bei jedem Eingang einer neuen Bestellung werden gleich die Umsatzstatisiken für den Fotografen upgedatet.
 
 Batch: 
  - Neu hochgeladene Fotos in der Web-Applikation werden anschließend in Batches von jeweils 100 Fotos mit Wasserzeichen überlagert.
@@ -32,7 +32,7 @@ Batch:
  *2. Schicken Sie einen Screenshot der installierten Umgebung mit.*
  *3. Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen würden (z.B: IDE)*
 
- 1. Vor allem aus persönlichem Interesse habe ich mich für Apache Flink entschieden. Was ich aus einigen Artikel rauslesen konnte, ist es zwar noch nicht so weit verbreitet wie Spark, wird aber etwas gehyped, weil es neben Batch-Verarbeitung auch einige neue Features wie Echtzeit Stream Verarbeitung bietet. Deshalb wollte ich mich mit einer Technologie befassen, die beides unterstützt und selber sehen, ob es dem Hype gerecht wird. 
+ 1. Vor allem aus persönlichem Interesse habe ich mich für Apache Flink entschieden. Wie ich aus einigen Artikel rauslesen konnte, ist es zwar noch nicht so weit verbreitet wie Spark, wird aber etwas gehyped, weil es neben Batch-Verarbeitung auch einige neue Features wie Echtzeit Stream Verarbeitung bietet. Deshalb wollte ich mich mit einer Technologie befassen, die beides unterstützt und selber sehen, ob es dem Hype gerecht wird. 
  2. Screenshots:
  Flink - Command Line
  ![Flink - Command Line](screenshots/DataEngineering_Flink_CommandLine.png "Flink - Command Line")
