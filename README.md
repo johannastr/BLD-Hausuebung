@@ -27,13 +27,18 @@ Batch:
 
 ### Assignment 2: Big Data in Ihrem Umfeld (4 Punkte)
 *Entscheiden Sie sich für eine Data Engineering Plattform. Apache Flink oder Apache Spark.*
+
 *Installieren Sie die auf Ihrem Arbeitsgerät.*
+
  *1. Erklären Sie ihre Entscheidung.*
+ 
  *2. Schicken Sie einen Screenshot der installierten Umgebung mit.*
+ 
  *3. Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen würden (z.B: IDE)*
 
- 1. Vor allem aus persönlichem Interesse habe ich mich für Apache Flink entschieden. Wie ich aus einigen Artikel rauslesen konnte, ist es zwar noch nicht so weit verbreitet wie Spark, wird aber etwas gehyped, weil es neben Batch-Verarbeitung auch einige neue Features wie Echtzeit Stream Verarbeitung bietet. Deshalb wollte ich mich mit einer Technologie befassen, die beides unterstützt und selber sehen, ob es dem Hype gerecht wird. 
+ 1. Vor allem aus persönlichem Interesse habe ich mich für Apache Flink entschieden. Wie ich aus einigen Artikel rauslesen konnte, ist es zwar noch nicht so weit verbreitet wie Spark, scheint aber etwas gehyped zu werden und wird als neue innovative Alternative dargestellt, weil es neben Batchverarbeitung auch einige neue Features wie z.B. Echtzeit-Streamverarbeitung bietet. Deshalb wollte ich mich mit einer Technologie befassen, die beides unterstützt und selber sehen, ob es dem Hype gerecht wird. 
  2. Screenshots:
+ 
  Flink - Command Line
  ![Flink - Command Line](screenshots/DataEngineering_Flink_CommandLine.png "Flink - Command Line")
  Flink - Example Run
@@ -44,10 +49,13 @@ Batch:
  
 ### Assignment 3: Big Data in Ihrem Umfeld (4 Punkte)
 *Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden Sie es hoch.*
+
  *- 2 Punkte für Programm* 
+ 
  *- 2 Punkte, wenn das Programm auch ausführbar ist.*
 
 Der Ordner "flink-java-project" enthält das IntelliJ Projekt fürs Programm. Die Klasse "HelloWorldCount" enthält den eigentlichen Code des Progamms.
+
 Mit dem JAR-File "flink-java-project-0.1.jar" kann das Programm in Flink ausgeführt werden.
 
     flink run flink-java-project-0.1.jar
@@ -72,14 +80,18 @@ Ich würde mich für Python entscheiden, da es laut vielen Meinungen im Internet
 
 ### Assignment 2: Technologien (4 Punkte)
 *Entscheiden Sie sich für eine Data Science Plattform. R oder Python*
+
 *Installieren Sie die auf Ihrem Arbeitsgerät.*
 
  *1. Begründen Sie ihre Entscheidung (Warum ziehen Sie persönlich aus ihrer Ausgangssituation die eine Technologie der anderen vor).*
+ 
  *2. Schicken Sie einen Screenshot der installierten Umgebung mit*
+ 
  *3. Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen (z.B. IDE)*
 
  1. Ich habe mich aus den selben Gründen, wie schon bei Punkt 1.2 des vorherigen Assignment 1 erläutert, für Python entschieden. 
  2. Screenshots:
+ 
  Python - Command Line
  ![Python - Command Line](screenshots/DataScience_Python_CommandLineTest.png "Python - Command Line")
  Python - Hello World Example
@@ -88,6 +100,7 @@ Ich würde mich für Python entscheiden, da es laut vielen Meinungen im Internet
 
 ### Assignment 3: Big Science (4 Punkte)
 *Der Cheatsheet auf http://scikit-learn.org/stable/tutorial/machine_learning_map/ ist eine einfache Anleitung, wie man den richtigen Algorithmus zum richtigen Data Science Problem findet. Schauen Sie in Google nach und lernen Sie classificatiom, regression, clusting und dimensional reduction unterscheiden.*
+
 *Nennen Sie ein Beispiel aus ihrem Umfeld, wo Sie mit dem Algorithmus zu tun haben. Das kann ein Beispiel sein, wie: Wenn Sie bei Amazon einkaufen. Wenn Sie von einem Marketinginstitut angerufen werden, etc.*
 
 Classification:
