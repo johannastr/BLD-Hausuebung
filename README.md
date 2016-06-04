@@ -84,9 +84,9 @@ Ich würde mich für Python entscheiden, da es laut vielen Meinungen im Internet
  2. Screenshots:
  
  Python - Command Line
- ![Python - Command Line](screenshots/DataScience_Python_CommandLineTest.png "Python - Command Line")
+ ![Python - Command Line](screenshots/DataScience_Python_CommandLineTest.PNG "Python - Command Line")
  Python - Hello World Example
- ![Python - Hello World Example](screenshots/DataScience_Python_HelloWorld.png "Python - Hello World Example")
+ ![Python - Hello World Example](screenshots/DataScience_Python_HelloWorld.PNG "Python - Hello World Example")
  3. Als Entwicklungsumgebung für Python wird die IDE PyCharm eingesetzt. 
 
 ### Assignment 3: Big Science (4 Punkte)
