@@ -1,7 +1,5 @@
 # Big Data - Hausübung
 
-----------
-
 ## Data Engineering
 
 ### Assignment 1: Big Data in Ihrem Umfeld (4 Punkte)
@@ -10,17 +8,22 @@
 *Schauen Sie sich in Ihrem Umfeld um. FH Technikum oder Ihr Job. Nennen Sie mindestens ein Beispiel für Daten, die schemalos (unstrukturiert) sind und mindestens ein Bespiel für Daten, die strukturiert (schematisch) sind.*
 
 Schemalos (unstrukturiert): 
-- Emails von FH und aus der Arbeit, Dokumente und Unterlagen im Moodle der FH, Skype Nachrichten in der Arbeit
-- Strukturiert (schematisch): Daten in relationaler Datenbank in der Arbeit (z.B. User-Daten, Daten zu Kundenbestellungen, ...)
+ - Emails von FH und aus der Arbeit
+ - Dokumente und Unterlagen im Moodle der FH
+ - Skype Nachrichten in der Arbeit
+
+Strukturiert (schematisch): 
+ - Daten in relationaler Datenbank in der Arbeit (z.B. User-Daten, Daten zu Kundenbestellungen, ...)
 
 #### 1.2 (2 Punkte)
 *Nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die gestreamt verarbeitet werden, nennen Sie ein Beispiel für Daten in Ihrem Umfeld, die über Batchverarbeitung verarbeitet werden.*
 
 Stream: 
-- Information zu Besucher der Web-Applikation und Nutzeraktivität (Web Metrics) --> diese Daten werden sofort beim Besuch vom Client an Services der Web-Applikation & Google Analytics weitergeleitet und dort verarbeitet.
-- Sofort bei jedem Eingang einer neuen Bestellung werden die Umsatzstatisiken für den Fotografen upgedatet.
+ - Information zu Besucher der Web-Applikation und Nutzeraktivität (Web Metrics) --> diese Daten werden sofort beim Besuch vom Client an Services der Web-Applikation & Google Analytics weitergeleitet und dort verarbeitet.
+ - Sofort bei jedem Eingang einer neuen Bestellung werden die Umsatzstatisiken für den Fotografen upgedatet.
+
 Batch: 
-- Neu hochgeladene Fotos in der Web-Applikation werden anschließend in Batches von jeweils 100 Fotos mit Wasserzeichen überlagert.
+ - Neu hochgeladene Fotos in der Web-Applikation werden anschließend in Batches von jeweils 100 Fotos mit Wasserzeichen überlagert.
 
 ### Assignment 2: Big Data in Ihrem Umfeld (4 Punkte)
 *Entscheiden Sie sich für eine Data Engineering Plattform. Apache Flink oder Apache Spark.*
@@ -31,7 +34,7 @@ Batch:
 
  1. Vor allem aus persönlichem Interesse habe ich mich für Apache Flink entschieden. Was ich aus einigen Artikel rauslesen konnte, ist es zwar noch nicht so weit verbreitet wie Spark, wird aber etwas gehyped, weil es neben Batch-Verarbeitung auch einige neue Features wie Echtzeit Stream Verarbeitung bietet. Deshalb wollte ich mich mit einer Technologie befassen, die beides unterstützt und selber sehen, ob es dem Hype gerecht wird. 
  2. Screenshots:
- ![Flink - Command Line](https://api.bildkopie.com/photos/108699-129pa19rbf3053.jpg "Flink - Command Line")
+ ![Flink - Command Line](BLD-Hausuebung/screenshots/DataEngineering_Flink_CommandLine.png "Flink - Command Line")
  ![Flink - Example Run](https://api.bildkopie.com/photos/108699-129pa19rbf3053.jpg "Flink - Example Run")
  ![Flink - Web Frontend](https://api.bildkopie.com/photos/108699-129pa19rbf3053.jpg "Flink - Web Frontend")
  3. Als Entwicklungsumgebung für Java wird die IDE IntelliJ eingesetzten und Maven als Build Tool verwenden. 
