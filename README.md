@@ -34,9 +34,12 @@ Batch:
 
  1. Vor allem aus persönlichem Interesse habe ich mich für Apache Flink entschieden. Was ich aus einigen Artikel rauslesen konnte, ist es zwar noch nicht so weit verbreitet wie Spark, wird aber etwas gehyped, weil es neben Batch-Verarbeitung auch einige neue Features wie Echtzeit Stream Verarbeitung bietet. Deshalb wollte ich mich mit einer Technologie befassen, die beides unterstützt und selber sehen, ob es dem Hype gerecht wird. 
  2. Screenshots:
+ Flink - Command Line
  ![Flink - Command Line](screenshots/DataEngineering_Flink_CommandLine.png "Flink - Command Line")
- ![Flink - Example Run](https://api.bildkopie.com/photos/108699-129pa19rbf3053.jpg "Flink - Example Run")
- ![Flink - Web Frontend](https://api.bildkopie.com/photos/108699-129pa19rbf3053.jpg "Flink - Web Frontend")
+ Flink - Example Run
+ ![Flink - Example Run](screenshots/DataEngineering_Flink_ExampleRun.png "Flink - Example Run")
+ Flink - Web Frontend
+ ![Flink - Web Frontend](screenshots/DataEngineering_Flink_WebFrontend.png "Flink - Web Frontend")
  3. Als Entwicklungsumgebung für Java wird die IDE IntelliJ eingesetzten und Maven als Build Tool verwenden. 
  
 ### Assignment 3: Big Data in Ihrem Umfeld (4 Punkte)
@@ -77,9 +80,11 @@ Ich würde mich für Python entscheiden, da es laut vielen Meinungen im Internet
 
  1. Ich habe mich aus den selben Gründen, wie schon bei Punkt 1.2 des vorherigen Assignment 1 erläutert, für Python entschieden. 
  2. Screenshots:
- ![Python - Command Line](https://api.bildkopie.com/photos/108699-129pa19rbf3053.jpg "Python - Command Line")
- ![Python - Hello World Example](https://api.bildkopie.com/photos/108699-129pa19rbf3053.jpg "Python - Hello World Example")
- 3. Als Entwicklungsumgebung für Python wird die IDE PyCharm eingesetzten. 
+ Python - Command Line
+ ![Python - Command Line](screenshots/DataScience_Python_CommandLineTest.png "Python - Command Line")
+ Python - Hello World Example
+ ![Python - Hello World Example](screenshots/DataScience_Python_HelloWorld.png "Python - Hello World Example")
+ 3. Als Entwicklungsumgebung für Python wird die IDE PyCharm eingesetzt. 
 
 ### Assignment 3: Big Science (4 Punkte)
 *Der Cheatsheet auf http://scikit-learn.org/stable/tutorial/machine_learning_map/ ist eine einfache Anleitung, wie man den richtigen Algorithmus zum richtigen Data Science Problem findet. Schauen Sie in Google nach und lernen Sie classificatiom, regression, clusting und dimensional reduction unterscheiden.*
