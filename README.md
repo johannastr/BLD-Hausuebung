@@ -33,7 +33,7 @@ Batch:
  *2. Schicken Sie einen Screenshot der installierten Umgebung mit.*    
  *3. Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen würden (z.B: IDE)*
 
- 1. Vor allem aus persönlichem Interesse habe ich mich für Apache Flink entschieden. Wie ich aus einigen Artikel rauslesen konnte, ist es zwar noch nicht so weit verbreitet wie Spark, scheint aber etwas gehyped zu werden und wird als neue innovative Alternative dargestellt, weil es neben Batchverarbeitung auch einige neue Features wie z.B. Echtzeit-Streamverarbeitung bietet. Deshalb wollte ich mich mit einer Technologie befassen, die beides unterstützt und selber sehen, ob es dem Hype gerecht wird. 
+ 1. Ich habe mich für Apache Flink entschieden, weil mich besonders die Streamverarbeitung interessiert und Apache Flink für diesen Bereich besser geeignet ist. Auch in der Arbeit könnte dies relevant werden und da mit Apache Flink auch Batch-Verarbeitung möglich ist, kann ich mir so eine Plattform ansehen, in der beides gelöst werden kann. 
  2. Screenshots:
  
  Flink - Command Line
