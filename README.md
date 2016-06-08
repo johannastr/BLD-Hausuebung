@@ -97,10 +97,10 @@ Classification: Vorgegebene Kategorien/Klassen, denen die Daten zugeordnet werde
 Beispiel: Klassifizierung von Emails als Spam
 
 Regression: Ermittlung eines echten numerischen Wertes für eine bestimmte Eigenschaft eines Objektes   
-Beispiel: Wenn man eine neue Wohnung zum Vermieten bei AirBnb reinstellt, wird einem Preis vorgeschlagen, der für diese Art von Wohnung (Größe, Lage, …) passt.
+Beispiel: Wenn man eine neue Wohnung zum Vermieten bei AirBnb reinstellt, wird einem ein Preis vorgeschlagen, der für diese Art von Wohnung (Größe, Lage, …) passt.
 
 Clustering: Keine Kategorie vorgegeben, stattdessen werden ähnliche Daten zu Gruppen zusammengefasst    
-Beispiel: Analyse aller Kunden mit Billa-Kundenkarte und Gruppierung in Markt-Segmente, um Angebote besser abstimmen zu können
+Beispiel: Analyse aller Kunden mit Billa-Kundenkarte und Gruppierung in Markt-Segmente, um z.B. Angebote besser abstimmen zu können
 
 Dimensional Reduction: Reduzierung der großen Anzahl an Dimension von Daten auf weniger aber wesentliche und aussagekräftige Dimensionen 
 
