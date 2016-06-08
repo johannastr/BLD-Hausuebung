@@ -93,10 +93,19 @@ Ich würde mich für Python entscheiden, da es laut vielen Meinungen im Internet
 *Der Cheatsheet auf http://scikit-learn.org/stable/tutorial/machine_learning_map/ ist eine einfache Anleitung, wie man den richtigen Algorithmus zum richtigen Data Science Problem findet. Schauen Sie in Google nach und lernen Sie classificatiom, regression, clusting und dimensional reduction unterscheiden.*     
 *Nennen Sie ein Beispiel aus ihrem Umfeld, wo Sie mit dem Algorithmus zu tun haben. Das kann ein Beispiel sein, wie: Wenn Sie bei Amazon einkaufen. Wenn Sie von einem Marketinginstitut angerufen werden, etc.*
 
-Classification:
+Classification:   
+Vorgegebene Kategorien/Klassen, denen die Daten zugeordnet werden   
+Beispiel: Klassifizierung von Emails als Spam
 
-Regression:
+Regression:    
+Ermittlung eines echten numerischen Wertes für eine bestimmte Eigenschaft eines Objektes   
+Beispiel: Wenn man eine neue Wohnung zum Vermieten bei AirBnb reinstellt, wird einem Preis vorgeschlagen, der für diese Art von Wohnung (Größe, Lage, …) passt.
 
-Clustering:
+Clustering:   
+Keine Kategorie vorgegeben, stattdessen werden ähnliche Daten zu Gruppen zusammengefasst    
+Beispiel: Analyse aller Kunden mit Billa-Kundenkarte und Gruppierung in Markt-Segmente, um Angebote besser abstimmen zu können
 
-Dimensional Reduction:
+Dimensional Reduction:     
+Reduzierung der großen Anzahl an Dimension von Daten auf weniger aber wesentliche und aussagekräftige Dimensionen  
+Beispiel: 
+
