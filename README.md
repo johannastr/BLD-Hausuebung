@@ -96,12 +96,11 @@ Ich würde mich für Python entscheiden, da es laut vielen Meinungen im Internet
 Classification: Vorgegebene Kategorien/Klassen, denen die Daten zugeordnet werden   
 Beispiel: Klassifizierung von Emails als Spam
 
-Regression: Ermittlung eines echten numerischen Wertes für eine bestimmte Eigenschaft eines Objektes   
-Beispiel: Wenn man eine neue Wohnung zum Vermieten bei AirBnb reinstellt, wird einem ein Preis vorgeschlagen, der für diese Art von Wohnung (Größe, Lage, …) passt.
+Regression: Ermittlung/Prognose eines (numerischen) Wertes für eine bestimmte Eigenschaft eines Objektes   
+Beispiel: Wenn man eine neue Wohnung zum Vermieten bei AirBnb reinstellt, wird einem ein Preis vorgeschlagen, der für diese Art von Wohnung (Größe, Lage, …) passend ist.
 
 Clustering: Keine Kategorie vorgegeben, stattdessen werden ähnliche Daten zu Gruppen zusammengefasst    
-Beispiel: Analyse aller Kunden mit Billa-Kundenkarte und Gruppierung in Markt-Segmente, um z.B. Angebote besser abstimmen zu können
+Beispiel: Analyse aller Billa Kundenkartenbesitzer und Gruppierung in Markt-Segmente, um z.B. Angebote besser abstimmen zu können
 
-Dimensional Reduction: Reduzierung der großen Anzahl an Dimension von manchen Daten auf weniger aber wesentliche und aussagekräftige Dimensionen   
-Beispiel: Recommendation Engine von Netflix macht Vorschläge anhand von einigen Infos, die aus allen Infos zu jedem Film, allen Infos zu den Usern und den Ratings der User ermittelt werden
-
+Dimensional Reduction: Reduzierung der großen Anzahl an Dimension bei Daten auf weniger aber dafür wesentliche und aussagekräftige Dimensionen   
+Beispiel: Reduzierung der Daten-Dimensionen bei Netflix (wie Infos zu Filmen, Infos zu Usern, Ratings der User, ...) auf wesentliche Punkte, um passende Recommendations zu machen
