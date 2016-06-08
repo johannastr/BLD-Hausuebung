@@ -102,5 +102,6 @@ Beispiel: Wenn man eine neue Wohnung zum Vermieten bei AirBnb reinstellt, wird e
 Clustering: Keine Kategorie vorgegeben, stattdessen werden ähnliche Daten zu Gruppen zusammengefasst    
 Beispiel: Analyse aller Kunden mit Billa-Kundenkarte und Gruppierung in Markt-Segmente, um z.B. Angebote besser abstimmen zu können
 
-Dimensional Reduction: Reduzierung der großen Anzahl an Dimension von Daten auf weniger aber wesentliche und aussagekräftige Dimensionen 
+Dimensional Reduction: Reduzierung der großen Anzahl an Dimension von manchen Daten auf weniger aber wesentliche und aussagekräftige Dimensionen   
+Beispiel: Recommendation Engine von Netflix macht Vorschläge anhand von einigen Infos, die aus allen Infos zu jedem Film, allen Infos zu den Usern und den Ratings der User ermittelt werden
 
